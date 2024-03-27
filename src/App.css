@@ -1,0 +1,23 @@
+.head {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 12px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.items-container {
+  text-align: left;
+}
+
+.kg-button {
+  min-width: 90px;
+  width: 100%;
+}
+
+.kg-zero {
+  margin: 15px 5px;
+}
